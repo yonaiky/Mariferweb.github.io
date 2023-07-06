@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Los formulario</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style></style>
+  </head>
+
+  <body>
+
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="Servicios.html">Servicios</a>
+      <a href="Cita.html">Citas</a>
+      <a href="contacto-4.html">Contacto</a>
+    </nav>
+    <div class="container-formulario">
+      <h2>Agenda con nosotros</h2>
+
+      <form
+        action="mailto:Mfernanda200103@gmail.com"
+        method="post"
+        enctype="text/plain"
+      >
+        <label for="Nombre">Nombre</label>
+        <input type="text" name="Nombre" />
+
+        <label for="PrimerApellido">Primer Apellido</label>
+        <input type="text" name="PrimerApellido" />
+
+        <label for="CorreoElectronico">Correo</label>
+        <input type="text" name="CorreoElectronico" />
+
+        <label for="NumeroTelefono">Teléfono</label>
+        <input type="text" name="NumeroTelefono" />
+
+        <label for="Fecha">Fecha</label>
+        <input type="date" name="Fecha" />
+
+        <h3>Servicios</h3>
+        <select>
+          <option>Fotografía profesional</option>
+          <option>Fotografía de producto</option>
+          <option>Producción Audiovisual</option>
+          <option>Diseño Publicitario</option>
+          <option>Ilustración</option>
+          <option>Animación</option>
+        </select>
+
+        <h3>Sexo</h3>
+        <label for="F">F</label>
+        <input type="checkbox" name="F" value="F" />
+
+        <label for="M">M</label>
+        <input type="checkbox" name="M" value="M" />
+
+        <label for="Otro">Otro</label>
+        <input type="checkbox" name="Otro" value="Otro" />
+
+        <h3>Seleccione forma de pago</h3>
+        <select>
+          <option>Efectivo</option>
+          <option>Tarjeta</option>
+          <option>Transferencia</option>
+        </select>
+
+        <label for="comentario"><h3>Sugerencias</h3></label>
+        <textarea
+          cols="40"
+          rows="6"
+          placeholder="Déjenos sus sugerencias"
+        ></textarea>
+
+        <div class="buttons">
+          <button type="button">Guardar</button>
+          <button type="reset">Borrar</button>
+          <button type="submit">Enviar</button>
+        </div>
+      </form>
+
+      <a href="../1er WEB.html">Volver al inicio</a>
+    </div>
+  </body>
+</html>

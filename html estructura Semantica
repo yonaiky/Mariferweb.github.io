@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Documento sin título</title>
+</head>
+
+<body>
+	<header>
+	<img src="diseño web/clase 5/logo.png" alt="logo png" width="150"> </header>
+	
+	
+	<secti> 
+	<article>
+		
+	<nav>
+	<ul> 
+		
+		<li> Inicio</li>
+		<li> nosotros</li>
+		<li> Galeria</li>
+		<li> Cotacto </li>
+		<li> Servicos</li>
+		</ul>
+	</nav>
+		
+		<img src="diseño web/clase 5/img-estudio.jpeg" alt="foto estudio"> 
+		<p>MaferStudios es una empresa  dedicada a la fotografía, audiovisuales, diseño grafico, publicidad e imprenta de todo tipo. </p>
+		
+		
+		<center><audio controls autoplay>
+	<source src="clase 3/audio1.mp4"></audio></center>
+		
+		</article>
+		
+		
+		
+		<article>
+				
+		<img src="diseño web/clase 5/img estudio-ft-3.jpeg" alt="foto estudio"> 
+		<p> MaferStudio inició con una simple cámara Canon T3i haciendo foto de retrato y fotos de productos, más adelante a los 20 años María Fernanda, fundadora de la empresa, descubre su pasión y las millones de opciones para emprender y ser exitosa. Su historia es complicada, puesto que duró aproximadamente 2 años con vacíos existenciales porque tenía dudas de si realmente estaba en el camino correcto para lograr el éxito deseado. Existieron muchos obstáculos, finalmente, luego de aclarar sus ideas dedicó su tiempo al conocimiento para así lograr el hoy día conocido @MaferStudios</p>
+			    <br>
+				<br>
+				
+		</article>
+	
+	</secti>
+	<br>
+	<br>
+	
+	
+	<aside> 
+	
+	<img src="diseño web/clase 3/promocion .png" alt="anuncio">
+	</aside>
+	<br>
+	<br>
+	
+	<footer>
+	<a href="https://www.canva.com/design/DAFj2ujP3Qg/IEPF_gqs-AdfBMb2CLW4Ww/edit?utm_content=DAFj2ujP3Qg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></a>
+		<img src="diseño web/sombrilla png.png" alt="sombrilla png">
+		
+		<br>
+		<br>
+		<br>
+		<h4> Las instalaciones de MaferStudios están ubicadas C. Cayetano Rodríguez 154, Santo Domingo.</h4>
+		
+		
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.232250582567!2d-69.93630800000001!3d18.4731362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8eaf89e66f7f86d5%3A0xec459d607f687466!2sVivero%20Plantas%20Tropicales!5e0!3m2!1sen!2sdo!4v1684606854713!5m2!1sen!2sdo" width="400" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		
+		
+	</footer>
+</body>
+</html>
